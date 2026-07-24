@@ -1,0 +1,11 @@
+=== Duplicate Submission Report ===
+Date: Thu Jul 24 22:15:32 IST 2026
+-----------------------------------
+DUPLICATE: studentC.txt is same as studentA.txt
+DUPLICATE: studentE.txt is same as studentB.txt
+
+=== Summary ===
+Total files processed: 6
+Duplicate files found: 2
+Unique files backed up: 4
+-----------------------------------
