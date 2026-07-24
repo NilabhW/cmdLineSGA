@@ -1,0 +1,8 @@
+# Compiled binaries
+*.o
+process_manager
+file_processor
+
+# Swap files
+*.swp
+*.swo

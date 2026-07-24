@@ -140,3 +140,13 @@ Error: Directory 'nonexistent_dir' not found!
 - `>>` : Redirect stdout, append to file  
 - `2>>` : Redirect stderr, append to file
 - `&>` : Redirect both stdout and stderr (used with `command -v` to suppress output)
+
+---
+
+### Screenshots
+
+#### Running the script and output
+![Screenshot - Running duplicate checker](ss1.png)
+
+#### Verifying backup and report
+![Screenshot - Backup verification](ss1p2.png)

@@ -176,3 +176,13 @@ This uses the **pipe operator** (`|`) to connect the output of one command to th
 - The kernel manages the data flow between them using a buffer
 - If the receiving command is slow, the sending command is automatically paused (backpressure)
 - This makes pipelines very memory-efficient since data streams through without being stored entirely in memory
+
+---
+
+### Screenshots
+
+#### Log monitor running and capturing errors in real time
+![Screenshot - Log monitor in action](ss4.png)
+
+#### Error report and verification
+![Screenshot - Error report output](ss4p2.png)

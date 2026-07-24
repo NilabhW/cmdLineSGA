@@ -219,3 +219,16 @@ Using system calls (open/read/write/lseek/close) instead of standard library fun
 3. **Better for binary data** - no character translation issues
 4. **More secure** - we control exactly what happens at each step
 5. **Required for certain operations** like file locking, non-blocking I/O, etc.
+
+---
+
+### Screenshots
+
+#### Compiling and running - initial records
+![Screenshot - File processor execution](ss3.png)
+
+#### Updating and retrieving records
+![Screenshot - Record update and retrieval](ss3p2.png)
+
+#### Final output with all records
+![Screenshot - Final records display](ss3p3.png)

@@ -1,0 +1,10 @@
+[2026-07-24 23:02:40] INFO: Server started on port 8080
+[2026-07-24 23:02:41] INFO: Connection from 192.168.1.10
+[2026-07-24 23:02:42] ERROR: Database connection timeout after 30s
+[2026-07-24 23:02:43] INFO: Request GET /index.html - 200 OK
+[2026-07-24 23:02:44] WARNING: High memory usage detected (85%)
+[2026-07-24 23:02:45] ERROR: Failed to write to /tmp/cache - Permission denied
+[2026-07-24 23:02:46] INFO: Request POST /api/data - 201 Created
+[2026-07-24 23:02:47] ERROR: SSL certificate expired for domain api.example.com
+[2026-07-24 23:02:48] INFO: Connection closed from 192.168.1.10
+[2026-07-24 23:02:49] INFO: Backup completed successfully

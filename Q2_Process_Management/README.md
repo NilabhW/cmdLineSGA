@@ -118,3 +118,10 @@ $ ps aux | grep -i defunct
 | `WIFEXITED()` | Checks if child exited normally |
 | `WEXITSTATUS()` | Gets the exit code of normally exited child |
 | `WIFSIGNALED()` | Checks if child was killed by a signal |
+
+---
+
+### Screenshots
+
+#### Compiling and running the process manager
+![Screenshot - Process manager execution](ss2.png)
